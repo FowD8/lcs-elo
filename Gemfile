@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'bootstrap-generators', '~> 3.3.4'
 # Awesome Print
 gem 'awesome_print'
+# HAML
+gem "haml-rails"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
